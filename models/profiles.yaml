@@ -1,0 +1,5 @@
+models:
+  - name: tutorial_model
+    model_type: profiles_tutorial
+    model_spec:
+      fast_mode: false

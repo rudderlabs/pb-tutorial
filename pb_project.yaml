@@ -1,0 +1,7 @@
+name: profiles_tutorial
+schema_version: 84
+connection: test
+model_folders:
+  - models
+python_requirements:
+  - profiles_mlcorelib
